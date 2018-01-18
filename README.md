@@ -1,2 +1,4 @@
 # hello-world-1st-repo-
-very first repository
+_________________________________________________________________________
+THIS REPOSITORY IS MADE TO UNDERSTAND THE BASICS OF USING A GITHUB
+_________________________________________________________________________
